@@ -1,0 +1,13 @@
+.env
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.mp4
+*.mp3
+*.PSD
+*.PSD/
+*.aep
+*.heic
+Cropping the HighRes_AME/
+Cropping the HighRes.aep
